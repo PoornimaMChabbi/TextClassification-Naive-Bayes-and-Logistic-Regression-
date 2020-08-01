@@ -8,7 +8,7 @@ option1 choices:
 3 - Logistic Regression with bag of words
 4 - Logistic Regression with bernoulli model
 
-eg: python nbnlog.py 4 "c:\\Users\\poorn\\Desktop\\hw2data\\enron1_train" "c:\\Users\\poorn\\Desktop\\hw2data\\enron1_test"
+eg: python nbnlog.py 4 "c:\\Users\\Desktop\\enron1_train" "c:\\Users\\Desktop\\enron1_test"
 
 II. To run SGDClassifier:
 python SGD.py [option2] [path to train folder] [path to test folder]
